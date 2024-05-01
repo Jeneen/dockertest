@@ -1,0 +1,58 @@
+Species,Family,Location,F/M sex ratio,RatioProportions,Sexual pattern,Reference,Notes,Source
+Lethrinus harak,Lethrinidae,Guam,3.62,0.78,Protogynous,Taylor & McIlwain 2010 MEPS,Histological examinations,Brett
+Plectropomus areolatus,Epinephelidae,Pohnpei,2.74,0.73,Protogynous,Rhodes et al 2013 JFB,Histological examinations,Brett
+Chlorurus spilurus,Labridae; Scarinae,Guam,9.44,0.9,Protogynous,Taylor 2014 ProcB,Visual surveys of colour phases,Brett
+Chlorurus spilurus,Labridae; Scarinae,Kosrae,3.45,0.78,Protogynous,Taylor 2014 ProcB,Visual surveys of colour phases,Brett
+Chlorurus spilurus,Labridae; Scarinae,Sorol,3.26,0.77,Protogynous,Taylor 2014 ProcB,Visual surveys of colour phases,Brett
+Chlorurus spilurus,Labridae; Scarinae,Ifalik,1.71,0.63,Protogynous,Taylor 2014 ProcB,Visual surveys of colour phases,Brett
+Chlorurus spilurus,Labridae; Scarinae,Lamotrek,2,0.67,Protogynous,Taylor 2014 ProcB,Visual surveys of colour phases,Brett
+Chlorurus spilurus,Labridae; Scarinae,Pohnpei,3.16,0.76,Protogynous,Taylor 2014 ProcB,Visual surveys of colour phases,Brett
+Chlorurus spilurus,Labridae; Scarinae,Yap,1.93,0.66,Protogynous,Taylor 2014 ProcB,Visual surveys of colour phases,Brett
+Calotomus carolinus,Labridae; Scarinae,Guam,0.79,0.44,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Cetoscarus bicolor,Labridae; Scarinae,Pohnpei,2.36,0.7,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Chlorurus frontalis,Labridae; Scarinae,Guam,1.24,0.55,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Chlorurus microrhinos,Labridae; Scarinae,Guam,4,0.8,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Chlorurus spilurus,Labridae; Scarinae,Guam,1.55,0.61,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Hipposcarus longiceps,Labridae; Scarinae,Pohnpei,1.91,0.66,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Scarus altipinnis,Labridae; Scarinae,Guam,1.65,0.62,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Scarus forsteni,Labridae; Scarinae,Guam,2.2,0.69,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Scarus ghobban,Labridae; Scarinae,Pohnpei,1.82,0.65,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Scarus psittacus,Labridae; Scarinae,Guam,1.11,0.53,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Scarus rubroviolaceus,Labridae; Scarinae,Guam,1.28,0.56,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Scarus schlegeli,Labridae; Scarinae,Guam,0.81,0.45,Protogynous,Taylor& Choat 2014,Histological examinations,Brett
+Epinephelus maculatus,Epinephelidae,Chuuk,3.67,0.79,Protogynous,Rhodes et al 2016 JFB,Histological examinations,Brett
+Lethrinus obsoletus,Lethrinidae,Saipan,3.67,0.79,Juvenile protogyny,Taylor et al 2017 IchthyRes,Histological examinations,Brett
+Scarus rubroviolaceus,Labridae; Scarinae,Tutuila,2.19,0.69,Protogynous,Taylor & Pardee 2017 JFB,Histological examinations,Brett
+Hipposcarus longiceps,Labridae; Scarinae,Guam,1.19,0.54,Protogynous,Taylor & Cruz 2017 PeerJ,Histological examinations,Brett
+Calotomus carolinus,Labridae; Scarinae,Oahu,3.02,0.75,Protogynous,DeMartini et al 2018 CJFAS,Histological examinations,Brett
+Scarus psittacus,Labridae; Scarinae,Oahu,2.4,0.71,Protogynous,DeMartini et al 2018 CJFAS,Histological examinations,Brett
+Chlorurus spilurus,Labridae; Scarinae,Oahu,1.51,0.6,Protogynous,DeMartini et al 2018 CJFAS,Histological examinations,Brett
+Chlorurus perspicillatus,Labridae; Scarinae,Oahu,1.1,0.52,Protogynous,DeMartini et al 2018 CJFAS,Histological examinations,Brett
+Scarus rubroviolaceus,Labridae; Scarinae,Oahu,2.18,0.69,Protogynous,DeMartini et al 2018 CJFAS,Histological examinations,Brett
+Lethrinus xanthochilus,Lethrinidae,Tutuila,1.4,0.58,Protogynous,Taylor et al 2018 PeerJ,Histological examinations,Brett
+Plectropomus areolatus,Epinephelidae,Chuuk,5,0.83,Protogynous,Rhodes et al 2020 AquatCons,Histological examinations,Brett
+Chlorurus japanensis,Labridae; Scarinae,Tutuila,1.19,0.54,Protogynous,Pardee et al 2020 FisheriesSci,Histological examinations,Brett
+Lethrinus rubrioperculatus,Lethrinidae,Tutuila,1.74,0.63,Protogynous,Pardee et al 2020 FisheriesSci,Histological examinations,Brett
+Lethrinus olivaceus,Lethrinidae,Okinawa,1.08,0.52,Protogynous,Shimose_2021,Histological examinations,
+Lethrinus atkinsoni,Lethrinidae,Okinawa,0.33,0.25,Protogynous,Ebisawa_and_Ozawa_2009_Fish_sci,Histological examinations,
+Lethrinus xanthochilus,Lethrinidae,Tutuila,1.4,0.58,Protogynous,Taylor et al 2018 PeerJ,Histological examinations,
+Scolopsis lineata,Nemipteridae,PNG,1.71,0.63,Protogynous,Longenecker_et_al_2016,Histological examinations,
+Scarus rubroviolaceus,Scaridae,Seychelles,5.20625,0.84,Protogynous,Grandcourt_2002_MarFreshwaterRes,Histological examinations,
+Chlorurus microrhinos,Scaridae,Okinawa,2.565217391,0.72,Protogynous,Ebisawa_et_al_2016,Histological examinations,
+Chlorurus sordidus,Scaridae,GBR,3.11,0.76,Protogynous,Gust_2004,Histological examinations,
+Scarus frenatus,Scaridae,GBR,1.28,0.56,Protogynous,Gust_2004,Histological examinations,
+Plectropomus laevis,Serranidae,GBR,4,0.8,Protogynous,Adams_2003,Histological examinations,
+Cephalopholis argus,Serranidae,Hawaii,3.9,0.8,Protogynous,Schemmel_et_al_2016,Histological examinations,
+Plectropomus leopardus,Serranidae,Okinawa,11.29,0.92,Protogynous,Ebisawa_2013,Histological examinations,
+Acanthopagrus bifasciatus,Sparidae,Abu Dhabi,1.9,0.66,Protogynous,Grandcourt_et_al_2004,Macroscopic examination,
+Scolopsis monogramma,Nemipteridae,Okinawa,2.864864865,0.741258741,Protogynous,Akita_and_Tachihara_2014,Histological examinations,
+Epinephelus labriformis,Serranidae,"Bahía de Navidad, Jalisco, México",1.243436754,0.554255319,Protogynous,Ruiz-ramirez_et_al_2018,Histological examinations,
+Epinephelus itajara,Serranidae,"Abrolhos Bank, eastern Brazil",16,0.941176471,Protogynous,Freitas_et_al_2015,Histological examinations,
+Bodianus frenchii,Labridae,Western Australia,1.484,0.59742351,Protogynous,Cossington_et_al_2010,Histological examinations,
+Halichoeres trimaculatus,Labridae,Okinawa,4.590163934,0.82111437,Protogynous and protandrous,Kuwamura_et_al_2007,Histological examinations,
+Lachnolaimus maximus,Labridae,Yucatan Penninsula,2.794354839,0.736450584,Protogynous,Brule_et_al_2019,Histological examinations,
+Cheilinus undulatus,Labridae,Palau,8,0.888888889,Protogynous,Colin_2010,Visual surveys,
+Neocirrhites armatus,Cirrhitidae,GBR,1.75,0.636363636,Protogynous,Sadovy_and_Donaldson_1995,Histological examinations,
+Parapercis cylindrica,Pinguipedidae,GBR,6,0.857142857,Protogynous,Walker_and_McCormick_2004,Visual surveys,
+Acanthopagrus berda ,Sparidae,"Kearla, India",1.210144928,0.547540984,Protandrous,Thomas_et_al_2019,Histological examinations,
+Diplodus sargus sargus,Sparidae,Gulf of Tunis,2.243243243,0.691666667,Protogynous,Mouine_et_al_2012,Histological examinations,

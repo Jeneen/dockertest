@@ -1,0 +1,36 @@
+species,lwa_m,lwa_sd,lwb_m,lwb_sd,obs
+Artediellus atlanticus,0.0763,,2.107,,female_value;score=0
+Careproctus reinhardti,0.1198,,2.136,,male_value;score=0.92
+Eleginus nawaga,0.00631,,3.1,,score=0.99
+Hemitripterus americanus,0.0183,,3,,score=0
+Lepidonotothen nudifrons,0.00646,0.0026525,3.19,0.09,Bayesian
+Leptagonus decagonus,0.0048,,2.841,,score=0.92
+Lycodes esmarkii,0.001,,3.411,,score=0.98
+Merluccius gayi,0.01175,0.00593,3.07,0.105,Bayesian
+Nematalosa vlaminghi,0.0119,,3,,score=0
+Opisthonema medirastre,0.011,,3.14,,juvenile;score=0
+Oxymonacanthus longirostris,0.01319,,3,,score=0
+Pseudopleuronectes americanus,0.0213,,3,,score=0
+Sebastes brevispinis,0.0143,,3,,score=0
+Sebastes carnatus,0.0269,,3,,score=0
+Sebastes caurinus,0.01746,,3,,score=0
+Sebastes chlorostictus,0.0202,,3,,mixed;score=0
+Sebastes constellatus,0.0155,,3,,mixed;score=0
+Sebastes crameri,0.0126,,3,,from Sebastes elongatus
+Sebastes diploproa,0.0115,,3,,score=0
+Sebastes elongatus,0.0126,,3,,score=0
+Sebastes entomelas,0.0126,,3,,from Sebastes elongatus
+Sebastes flavidus,0.01509,,3,,score=0
+Sebastes goodei,0.01290,,3,,score=0
+Sebastes hopkinsi,0.0126,,3,,from Sebastes elongatus
+Sebastes jordani,0.0126,,3,,from Sebastes elongatus
+Sebastes melanops,0.02111,,3,,score=0
+Sebastes melanostomus,0.0168,,3,,score=0
+Sebastes miniatus,0.0327,,3,,score=0
+Sebastes mystinus,0.01727,,3,,score=0
+Sebastes norvegicus,0.01956,,3,,score=0
+Sebastes ovalis,0.0163,,3,,score=0
+Sebastes paucispinis,0.01321,,3,,score=0
+Sebastes pinniger,0.01379,,3,,score=0
+Sebastes rastrelliger,0.022,,3,,score=0
+Sebastes rufus,0.0151,,3,,score=0
